@@ -1,0 +1,22 @@
+.drawerClose {
+  display: flex;
+  justify-content: flex-end;
+  padding: 8px;
+}
+
+.drawerContr {
+  padding: 20px 0;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+
+.activeNav {
+  color: #a65aef;
+}
+
+.closeBtn {
+  cursor: pointer;
+}
+
+.navlinks {
+  margin-bottom: 12px;
+}

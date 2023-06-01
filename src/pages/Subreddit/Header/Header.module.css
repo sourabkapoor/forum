@@ -1,0 +1,84 @@
+.header {
+  background-color: #efe9f4;
+}
+.header__background {
+  /* background-color: rgb(3, 84, 146); */
+  height: 64px;
+  padding: 8px 16px;
+}
+.header__container {
+  height: 100px;
+  margin: 0 auto;
+  max-width: 984px;
+}
+.header__content {
+  display: flex;
+  padding: 0 16px 0 24px;
+}
+.header__subreddit-picture {
+  /* height: 72px; */
+  max-width: 100px;
+  object-fit: cover;
+  font-size: 100px !important;
+  color: #c262f9;
+  background-color: transparent;
+  margin-top: -7px;
+  margin-bottom: 6px;
+  border-radius: 9999px;
+}
+.header__title-container {
+  padding-left: 16px;
+  margin-top: 24px;
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.header__title {
+  padding-right: 24px;
+}
+.header__subreddit-name {
+  font-size: 28px;
+  display: inline-block;
+  font-weight: 700;
+  color: var(--secondary-color);
+  overflow: hidden;
+  padding: 0 2px 4px 0;
+  text-overflow: ellipsis;
+  width: 100%;
+}
+.header__subreddit-link {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+  color: #818384;
+}
+
+.header__buttons {
+}
+
+.header__button {
+  width: 96px;
+  background-color: rgb(72, 72, 72);
+  border-radius: 9999px;
+  color: var(--primary-color);
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: unset;
+  line-height: 17px;
+  text-transform: unset;
+  min-height: 32px;
+  min-width: 32px;
+  padding: 4px 16px;
+  border: none;
+}
+
+/* .header__button-hover:hover {
+  content: "Leave";
+  background-color: var(--secondary-color);
+} */
+
+.header__button:hover {
+  background-color: var(--secondary-color);
+  cursor: pointer;
+}

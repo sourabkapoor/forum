@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "Open Sans";
+  src: url(../../assets/OpenSans-Regular.ttf);
+}
+
+.community__dropdown-my-communities {
+  font-family: "Open Sans";
+  color: rgb(91, 93, 96);
+  font-size: 10px;
+  padding-left: 0.7rem;
+  margin-bottom: 6px;
+}
+.community__icon {
+  width: 20px;
+  height: 20px;
+}
+
+.community__dropdown-button {
+  padding: 6.4px 12.8px;
+  background-color: inherit;
+  width: 100%;
+  box-sizing: border-box;
+  word-wrap: break-word;
+  display: flex;
+  align-items: center;
+  color: black;
+  gap: 8px;
+  border: none;
+}
+.community__dropdown-button:hover {
+  background-color: #e4e4e4;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.community-dropdown__link {
+  background-color: inherit;
+  padding: 8px 24px;
+  color: black;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.community-dropdown__link:hover {
+  background-color: #272729;
+}
+
+.community-dropdown__image {
+  height: 20px;
+  width: 20px;
+  border-radius: 100%;
+}
+
+.community-dropdown__community {
+  flex-grow: 1;
+  margin-left: 8px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 14px;
+  line-height: 18px;
+}
