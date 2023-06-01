@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/forum/static/css/main.968a310e.css",
+    "main.js": "/forum/static/js/main.f33962b5.js",
+    "static/js/787.a32ae6b8.chunk.js": "/forum/static/js/787.a32ae6b8.chunk.js",
+    "static/media/communities.png": "/forum/static/media/communities.ddf19e9334de517bd026.png",
+    "static/media/NotoSans-Regular.ttf": "/forum/static/media/NotoSans-Regular.eae34fa8f1e0c4c6d797.ttf",
+    "static/media/ProductSans-Regular.ttf": "/forum/static/media/ProductSans-Regular.2765c69613690b1b9c03.ttf",
+    "static/media/downvote.svg": "/forum/static/media/downvote.aeab636fe74e8e20278c851c91d65896.svg",
+    "static/media/upvote.svg": "/forum/static/media/upvote.69d5058a4d073642ee645d0962a0088b.svg",
+    "static/media/information-icon.svg": "/forum/static/media/information-icon.e2d9fb9743ad500ab51b849220577184.svg",
+    "static/media/google-logo.svg": "/forum/static/media/google-logo.c5f20af48e48c8ceb2dc881a3bc511c1.svg",
+    "index.html": "/forum/index.html",
+    "static/media/person-icon.svg": "/forum/static/media/person-icon.5e281f9080a2d3ccb7db58cb19fe2915.svg",
+    "static/media/exit-icon.svg": "/forum/static/media/exit-icon.62f700eeaa0ff40694cd825f39bdf74b.svg",
+    "static/media/upside-down-triangle.svg": "/forum/static/media/upside-down-triangle.620c015c0a141852e251edc59ca9e5b6.svg",
+    "main.968a310e.css.map": "/forum/static/css/main.968a310e.css.map",
+    "main.f33962b5.js.map": "/forum/static/js/main.f33962b5.js.map",
+    "787.a32ae6b8.chunk.js.map": "/forum/static/js/787.a32ae6b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.968a310e.css",
+    "static/js/main.f33962b5.js"
+  ]
+}
