@@ -10,32 +10,26 @@ import { getStorage } from "firebase/storage";
 // Your web app's Firebase configuration
 
 const firebaseConfig = {
-  // apiKey: "AIzaSyCLwXf77NuoR0ESLwAAgez_wS_gM8V4J7M",
+  // apiKey: "AIzaSyCEQgSH4Vfzmbn6IVFOE5fu5DtH0p3pAZ8",
 
-  // authDomain: "reddit-clone-23782.firebaseapp.com",
+  // authDomain: "forum-ovidiu-borze.firebaseapp.com",
 
-  // projectId: "reddit-clone-23782",
+  // projectId: "forum-ovidiu-borze",
 
-  // storageBucket: "reddit-clone-23782.appspot.com",
+  // storageBucket: "forum-ovidiu-borze.appspot.com",
 
-  // messagingSenderId: "855149209259",
+  // messagingSenderId: "555287825535",
 
-  // appId: "1:855149209259:web:cb03f2ae83010e6feab9ee",
+  // appId: "1:555287825535:web:98396be2b79a49d0fcc34a",
 
-  // measurementId: "G-9D511367MB",
-  apiKey: "AIzaSyCEQgSH4Vfzmbn6IVFOE5fu5DtH0p3pAZ8",
-
-  authDomain: "forum-ovidiu-borze.firebaseapp.com",
-
-  projectId: "forum-ovidiu-borze",
-
-  storageBucket: "forum-ovidiu-borze.appspot.com",
-
-  messagingSenderId: "555287825535",
-
-  appId: "1:555287825535:web:98396be2b79a49d0fcc34a",
-
-  measurementId: "G-71MX5H8V0X"
+  // measurementId: "G-71MX5H8V0X"
+  apiKey: "AIzaSyCm4vEA2R8YF4l86fe6N4dQQ2eSJ3MRa-M",
+  authDomain: "chatterbox-31d96.firebaseapp.com",
+  projectId: "chatterbox-31d96",
+  storageBucket: "chatterbox-31d96.appspot.com",
+  messagingSenderId: "1093005828288",
+  appId: "1:1093005828288:web:2c570c4983e7c266cdcd25",
+  measurementId: "G-04Z8Y89CN5"
 
 };
 
